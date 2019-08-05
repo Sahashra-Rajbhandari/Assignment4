@@ -1,0 +1,23 @@
+{
+	"breakfast": [{
+			"name": "Oatmeal",
+			"price": "7",
+			"calories": "55"
+		},
+		{
+			"name": "French Toast",
+			"price": "8",
+			"calories": "58"
+		},
+		{
+			"name": "Ommellete",
+			"price": "4",
+			"calories": "75"
+		},
+		{
+			"name": "Fruit Salad",
+			"price": "17",
+			"calories": "69"
+		}
+	]
+}
